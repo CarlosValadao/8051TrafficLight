@@ -1,0 +1,20 @@
+;Using external interrupt from P3 port	
+
+	ORG 0
+	LJMP MAIN
+	ORG 0003H
+	LJMP SINTE0
+	ORG 0050H
+	
+MAIN:
+	MOV IE, #10000001B
+	MOV A, R0
+	
+
+LOOP:	SJMP LOOP
+	ORG 0100H
+
+SINTE0:
+	INC A
+	RETI
+	END

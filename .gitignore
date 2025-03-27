@@ -1,0 +1,10 @@
+examples/*.adf
+examples/*.asm~
+examples/*.bin
+examples/*.hex
+examples/*.lst
+*.asm~
+*.adf
+*.bin
+*.hex
+*.lst

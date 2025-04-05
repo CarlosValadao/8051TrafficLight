@@ -5,6 +5,9 @@ examples/*.hex
 examples/*.lst
 *.asm~
 *.adf
+*.adf~
 *.bin
 *.hex
 *.lst
+*.vhc~
+*~

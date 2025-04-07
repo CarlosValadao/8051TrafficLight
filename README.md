@@ -6,13 +6,14 @@ Este projeto implementa um semáforo controlado por um microcontrolador 8051, ut
 
 O repositório está organizado da seguinte maneira:
 
-/virtual_hw
+    /virtual_hw
     ├── 7-seg_ones.vhc
     ├── 7-seg_tens.vhc
     ├── led_panel.vhc
     └── simple_keypad.vhc
-8051TrafficLight.mcu8051ide
-8051TrafficLight.asm
+    8051TrafficLight.mcu8051ide
+    8051TrafficLight.asm
+    Problema I.pdf
 
 - **/virtual_hw**: Diretório que contém os arquivos de hardware virtual utilizados no projeto.
   - **7-seg_ones.vhc**: Arquivo correspondente ao display de 7 segmentos que exibe as unidades do tempo.

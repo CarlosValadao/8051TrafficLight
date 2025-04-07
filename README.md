@@ -37,6 +37,10 @@ Esses arquivos podem ser carregados diretamente na **IDE mcu8051**, onde o proje
   - **Timer**: 2 timers de 16 bits
   - **Interrupções**: 5 fontes de interrupção, incluindo interrupções externas
 
+
+https://github.com/user-attachments/assets/ad0875f8-cec0-443c-afd4-109d0fdc19bd
+
+
 ## ⚙️ Funcionalidades
 
 ### 🚦 Ciclo Normal do Semáforo
